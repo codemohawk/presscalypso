@@ -1,5 +1,5 @@
 /*Importa as novas fontes da interface*/
-@import 'https: //fonts.googleapis.com/css?family=Merriweather+Sans:300, 400, 700, 800';
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700,800');
 * { border-color: #DDE5EC !important; border-top-color: #DDE5EC !important; border-right-color: #DDE5EC !important; border-left-color: #DDE5EC !important; border-bottom-color: #DDE5EC !important; text-shadow: 0px 0px #fff !important; }
 a { outline: none; }
 body { font-family: 'Merriweather Sans', sans-serif; color: #2F4452 !important; background: #F3F6F8; }
